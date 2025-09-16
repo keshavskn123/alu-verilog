@@ -1,7 +1,7 @@
 # 4-bit ALU in Verilog 🚀
 
 This project implements a **4-bit Arithmetic Logic Unit (ALU)** in Verilog, along with a testbench and waveform analysis using GTKWave.  
-It demonstrates **digital logic design, simulation, and verification skills**, which are highly relevant for VLSI roles (e.g., Cadence internship).
+It demonstrates **digital logic design, simulation, and verification skills**, which are highly relevant for VLSI roles.
 
 ---
 
