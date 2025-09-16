@@ -48,7 +48,7 @@ gtkwave alu.vcd
 
 📊 Sample Waveform
 
-Below is a waveform screenshot from GTKWave showing inputs (A, B, ALU_Sel) and outputs (ALU_Out, CarryOut):
+Below is a waveform screenshot from GTKWave showing inputs (A, B, ALU_Sel) and outputs (ALU_Out, CarryOut): waveform.png
 
 🎯 Learning Outcomes
 
