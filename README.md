@@ -38,20 +38,27 @@ It demonstrates **digital logic design, simulation, and verification skills**, w
 
 ## ▶️ How to Run
 
-### 1. Compile
+## 1. Compile
 ```bash
 iverilog -o alu_sim alu.v alu_tb.v
-2. Run Simulation
+
+---
+
+## 2. Run Simulation
+```bash
 vvp alu_sim
 
-3. View Waveforms
+---
+
+## 3. View Waveforms
+```bash
 gtkwave alu.vcd
 
-📊 Sample Waveform
+## 📊 Sample Waveform
 
-Below is a waveform screenshot from GTKWave showing inputs (A, B, ALU_Sel) and outputs (ALU_Out, CarryOut):
+Below is a waveform screenshot from GTKWave showing inputs (A, B, ALU_Sel) and outputs (ALU_Out, CarryOut): **[waveform.png]**
 
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 Learned Verilog HDL basics
 
@@ -61,11 +68,11 @@ Visualized signals with GTKWave
 
 Practiced version control & project publishing using GitHub
 
-🤝 Contribution
+## 🤝 Contribution
 
 Feel free to fork this repo, raise issues, or suggest improvements.
 
-📧 Contact
+## 📧 Contact
 
-Author: Keshav
-📩 Email: keshavskn123@gmail.com
+Author: **Keshav**
+📩 Email: **[keshavskn123@gmail.com]**
